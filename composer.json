@@ -1,0 +1,25 @@
+{
+    "name": "asmirnov69/fofba",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "description": "Protect access to uploaded files",
+    "require": {
+	"flarum/core": "^1.0"
+    },
+    "autoload": {
+	"psr-4": {
+	    "FoFBA\\ProtectedUploads\\": "src/"
+	}
+    },
+    "extra": {
+	"flarum-extension": {
+	    "title": "Protected Uploads",
+	    "icon": {
+		"name": "fas fa-lock",
+		"backgroundColor": "#222222",
+		"color": "#ffffff"
+	    }
+	}
+    }
+}
+
