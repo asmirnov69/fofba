@@ -2,7 +2,7 @@
     "name": "asmirnov69/fofba",
     "type": "flarum-extension",
     "license": "MIT",
-    "description": "Protect access to uploaded files",
+    "description": "FoF Band Aids",
     "require": {
 	"flarum/core": "^1.0"
     },
@@ -22,4 +22,3 @@
 	}
     }
 }
-
