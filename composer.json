@@ -13,7 +13,7 @@
     },
     "extra": {
 	"flarum-extension": {
-	    "title": "Protected Uploads",
+	    "title": "FoFBA",
 	    "icon": {
 		"name": "fas fa-lock",
 		"backgroundColor": "#222222",
